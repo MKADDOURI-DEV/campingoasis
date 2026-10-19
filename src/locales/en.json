@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "title": "Camping de Oasis \u2014 Motorhome Camping in Tighmert, Guelmim",
+        "description": "Camping de Oasis in Douar Tighmert, Guelmim: pitches for motorhomes and campers. Request availability by form or WhatsApp."
+    },
+    "nav": {
+        "home": "Home",
+        "pitches": "Camping",
+        "gallery": "Gallery",
+        "discover": "Tighmert",
+        "contact": "Contact",
+        "menu": "Menu",
+        "close": "Close",
+        "language": "Language"
+    },
+    "cta": {
+        "discover": "Discover the camping",
+        "availability": "Request availability",
+        "whatsapp": "Message on WhatsApp",
+        "contact": "Contact us"
+    },
+    "home": {
+        "eyebrow": "Douar Tighmert \u00b7 Guelmim",
+        "title": "Discover the Tighmert oasis",
+        "subtitle": "A simple, peaceful camping for motorhomes and campers in the heart of southern Morocco.",
+        "pitchTitle": "Pitches for motorhomes",
+        "pitchLead": "Camping de Oasis welcomes motorhomes, vans and campers passing through. Pitch details are provided by the camping.",
+        "photosTitle": "A glimpse of the place",
+        "photosNote": "Demo photographs, to be replaced by the camping's own images.",
+        "destTitle": "Tighmert, an oasis of the South",
+        "destLead": "Tighmert is an oasis village in the Guelmim region, surrounded by palm groves and open desert landscapes.",
+        "destMore": "Explore the destination",
+        "ctaTitle": "A question, a date in mind?",
+        "ctaLead": "Send us your request. Availability is confirmed directly by the camping.",
+        "directTitle": "Direct contact",
+        "directLead": "Answered by the camping. No booking is confirmed automatically.",
+        "metaLocation": "Location",
+        "metaLanguages": "Languages",
+        "metaLanguagesValue": "Fran\u00e7ais \u00b7 English \u00b7 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "metaBooking": "Request",
+        "metaBookingValue": "Form or WhatsApp"
+    },
+    "pitches": {
+        "title": "Camping and pitches",
+        "lead": "Camping de Oasis offers pitches for motorhomes. Detailed information is added as soon as the camping confirms it.",
+        "tbc": "To be confirmed by the camping",
+        "count": "Number of pitches",
+        "dimensions": "Capacity and dimensions",
+        "equipment": "Equipment",
+        "rates": "Rates",
+        "season": "Opening period",
+        "noticeTitle": "Information being confirmed",
+        "noticeBody": "To learn about availability, equipment and rates, please contact the camping directly.",
+        "galleryTitle": "Pitch preview"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "lead": "A few images of the place and its surroundings.",
+        "note": "Demo photographs, to be replaced by the camping's own images.",
+        "all": "All",
+        "pitches": "Pitches",
+        "environment": "Environment",
+        "facilities": "Facilities",
+        "open": "Enlarge image",
+        "close": "Close",
+        "prev": "Previous image",
+        "next": "Next image"
+    },
+    "discover": {
+        "title": "Discover Tighmert",
+        "lead": "An oasis village in the Guelmim region of southern Morocco.",
+        "natureTitle": "A natural setting",
+        "natureBody": "Tighmert sits within an oasis landscape where palm trees contrast with the arid expanses around it.",
+        "accessTitle": "Getting here",
+        "accessBody": "Camping de Oasis is located in Douar Tighmert, A\u00eft Messaoud, Asrir, Guelmim. Routes and distances will be added once verified.",
+        "mapTitle": "Location",
+        "mapNote": "Approximate position, to be validated with the camping before publication.",
+        "noticeTitle": "Activities and excursions",
+        "noticeBody": "No activity or excursion is offered on this site until it is confirmed by the camping."
+    },
+    "contact": {
+        "title": "Availability request",
+        "lead": "Tell us your dates and vehicle. The camping will reply directly.",
+        "notReservation": "This request is not a booking. Availability must be confirmed by the camping.",
+        "name": "Full name",
+        "email": "Email address",
+        "phone": "Phone",
+        "arrival": "Arrival date",
+        "departure": "Departure date",
+        "guests": "Number of people",
+        "vehicle": "Vehicle type",
+        "vehicleSelect": "Select",
+        "motorhome": "Motorhome",
+        "van": "Van",
+        "tent": "Tent",
+        "other": "Other",
+        "message": "Additional message",
+        "consent": "I agree that my information may be used to process my request.",
+        "submit": "Prepare my request by email",
+        "whatsappSend": "Prepare the WhatsApp message",
+        "whatsappNote": "You will be able to review the message before sending it yourself.",
+        "errors": {
+            "name": "Please enter your name.",
+            "contact": "Provide at least a phone number or an email address.",
+            "emailInvalid": "Invalid email address.",
+            "arrival": "Please choose an arrival date.",
+            "departure": "Please choose a departure date.",
+            "dates": "The departure date must be after the arrival date.",
+            "past": "The arrival date cannot be in the past.",
+            "guests": "Enter a valid number of people.",
+            "consent": "Your consent is required."
+        },
+        "notConfiguredTitle": "Sending not configured",
+        "notConfiguredBody": "No email or WhatsApp number is set yet. No request has been transmitted.",
+        "preparedTitle": "Request ready to send",
+        "preparedBody": "Your messaging app has opened. Review the message and send it yourself.",
+        "waMessage": {
+            "intro": "Hello, I would like to request availability.",
+            "name": "Name",
+            "dates": "Dates",
+            "guests": "People",
+            "vehicle": "Vehicle",
+            "message": "Message"
+        },
+        "addressTitle": "Address"
+    },
+    "privacy": {
+        "title": "Privacy policy",
+        "updated": "Last updated: October 2026",
+        "sections": [
+            {
+                "h": "Data collected",
+                "p": "The form collects the information you enter: name, phone, email, dates, number of people, vehicle type and message."
+            },
+            {
+                "h": "Use",
+                "p": "This information is used only to prepare your availability request and to let the camping reply to you."
+            },
+            {
+                "h": "Transmission",
+                "p": "This site does not store your data on a server. Your request is prepared in your email or WhatsApp app, which you send yourself."
+            },
+            {
+                "h": "Your rights",
+                "p": "You may request access, correction or deletion of your information by contacting the camping."
+            },
+            {
+                "h": "Contact",
+                "p": "For any question about your data, use the site's contact page."
+            }
+        ]
+    },
+    "footer": {
+        "rights": "All rights reserved.",
+        "privacy": "Privacy",
+        "address": "Douar Tighmert, A\u00eft Messaoud, Asrir, Guelmim, Morocco"
+    },
+    "wa": {
+        "float": "WhatsApp"
+    },
+    "common": {
+        "toContact": "Click here to contact us",
+        "skip": "Skip to content"
+    }
+}

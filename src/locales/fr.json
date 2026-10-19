@@ -1,0 +1,165 @@
+{
+    "meta": {
+        "title": "Camping de Oasis \u2014 Camping-cars \u00e0 Tighmert, Guelmim",
+        "description": "Camping de Oasis \u00e0 Douar Tighmert, Guelmim : emplacements pour camping-cars et campeurs. Demandez une disponibilit\u00e9 par formulaire ou WhatsApp."
+    },
+    "nav": {
+        "home": "Accueil",
+        "pitches": "Camping",
+        "gallery": "Galerie",
+        "discover": "Tighmert",
+        "contact": "Contact",
+        "menu": "Menu",
+        "close": "Fermer",
+        "language": "Langue"
+    },
+    "cta": {
+        "discover": "D\u00e9couvrir le camping",
+        "availability": "Demander une disponibilit\u00e9",
+        "whatsapp": "\u00c9crire sur WhatsApp",
+        "contact": "Nous contacter"
+    },
+    "home": {
+        "eyebrow": "Douar Tighmert \u00b7 Guelmim",
+        "title": "D\u00e9couvrez l'oasis de Tighmert",
+        "subtitle": "Un camping simple et paisible pour camping-cars et campeurs, au c\u0153ur du sud marocain.",
+        "pitchTitle": "Des emplacements pour camping-cars",
+        "pitchLead": "Camping de Oasis accueille les camping-cars, vans et campeurs de passage. Les d\u00e9tails des emplacements sont communiqu\u00e9s par l'\u00e9tablissement.",
+        "photosTitle": "Un aper\u00e7u du lieu",
+        "photosNote": "Photographies de d\u00e9monstration, remplac\u00e9es par celles de l'\u00e9tablissement.",
+        "destTitle": "Tighmert, une oasis du Sud",
+        "destLead": "Tighmert est un village d'oasis de la r\u00e9gion de Guelmim, entour\u00e9 de palmeraies et de paysages d\u00e9sertiques ouverts.",
+        "destMore": "D\u00e9couvrir la destination",
+        "ctaTitle": "Une question, une date en t\u00eate ?",
+        "ctaLead": "Envoyez-nous votre demande. La disponibilit\u00e9 est confirm\u00e9e directement par l'\u00e9tablissement.",
+        "directTitle": "Contact direct",
+        "directLead": "R\u00e9ponse par l'\u00e9tablissement. Aucune r\u00e9servation n'est confirm\u00e9e automatiquement.",
+        "metaLocation": "Localisation",
+        "metaLanguages": "Langues",
+        "metaLanguagesValue": "Fran\u00e7ais \u00b7 English \u00b7 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+        "metaBooking": "Demande",
+        "metaBookingValue": "Formulaire ou WhatsApp"
+    },
+    "pitches": {
+        "title": "Camping et emplacements",
+        "lead": "Camping de Oasis propose des emplacements pour camping-cars. Les informations d\u00e9taill\u00e9es sont ajout\u00e9es d\u00e8s qu'elles sont confirm\u00e9es par l'\u00e9tablissement.",
+        "tbc": "\u00c0 confirmer par l'\u00e9tablissement",
+        "count": "Nombre d'emplacements",
+        "dimensions": "Capacit\u00e9 et dimensions",
+        "equipment": "\u00c9quipements",
+        "rates": "Tarifs",
+        "season": "P\u00e9riode d'ouverture",
+        "noticeTitle": "Informations en cours de confirmation",
+        "noticeBody": "Pour conna\u00eetre les disponibilit\u00e9s, les \u00e9quipements et les tarifs, contactez directement le camping.",
+        "galleryTitle": "Aper\u00e7u des emplacements"
+    },
+    "gallery": {
+        "title": "Galerie",
+        "lead": "Quelques images du lieu et de ses environs.",
+        "note": "Photographies de d\u00e9monstration, remplac\u00e9es par celles de l'\u00e9tablissement.",
+        "all": "Tout",
+        "pitches": "Emplacements",
+        "environment": "Environnement",
+        "facilities": "Installations",
+        "open": "Agrandir l'image",
+        "close": "Fermer",
+        "prev": "Image pr\u00e9c\u00e9dente",
+        "next": "Image suivante"
+    },
+    "discover": {
+        "title": "D\u00e9couvrir Tighmert",
+        "lead": "Un village d'oasis dans la r\u00e9gion de Guelmim, au sud du Maroc.",
+        "natureTitle": "Un cadre naturel",
+        "natureBody": "Tighmert s'inscrit dans un paysage d'oasis o\u00f9 les palmiers contrastent avec les \u00e9tendues arides qui l'entourent.",
+        "accessTitle": "Acc\u00e8s",
+        "accessBody": "Camping de Oasis est situ\u00e9 \u00e0 Douar Tighmert, A\u00eft Messaoud, Asrir, Guelmim. Les itin\u00e9raires et distances seront ajout\u00e9s apr\u00e8s v\u00e9rification.",
+        "mapTitle": "Localisation",
+        "mapNote": "Position approximative, \u00e0 valider avec l'\u00e9tablissement avant publication.",
+        "noticeTitle": "Activit\u00e9s et excursions",
+        "noticeBody": "Aucune activit\u00e9 ni excursion n'est propos\u00e9e sur ce site tant qu'elle n'est pas confirm\u00e9e par l'\u00e9tablissement."
+    },
+    "contact": {
+        "title": "Demande de disponibilit\u00e9",
+        "lead": "Indiquez vos dates et votre v\u00e9hicule. L'\u00e9tablissement vous r\u00e9pondra directement.",
+        "notReservation": "Cette demande n'est pas une r\u00e9servation. La disponibilit\u00e9 doit \u00eatre confirm\u00e9e par l'\u00e9tablissement.",
+        "name": "Nom complet",
+        "email": "Adresse e-mail",
+        "phone": "T\u00e9l\u00e9phone",
+        "arrival": "Date d'arriv\u00e9e",
+        "departure": "Date de d\u00e9part",
+        "guests": "Nombre de personnes",
+        "vehicle": "Type de v\u00e9hicule",
+        "vehicleSelect": "Choisir",
+        "motorhome": "Camping-car",
+        "van": "Van",
+        "tent": "Tente",
+        "other": "Autre",
+        "message": "Message compl\u00e9mentaire",
+        "consent": "J'accepte que mes informations soient utilis\u00e9es pour traiter ma demande.",
+        "submit": "Pr\u00e9parer ma demande par e-mail",
+        "whatsappSend": "Pr\u00e9parer le message WhatsApp",
+        "whatsappNote": "Vous pourrez relire le message avant de l'envoyer vous-m\u00eame.",
+        "errors": {
+            "name": "Veuillez indiquer votre nom.",
+            "contact": "Indiquez au moins un t\u00e9l\u00e9phone ou une adresse e-mail.",
+            "emailInvalid": "Adresse e-mail invalide.",
+            "arrival": "Veuillez choisir une date d'arriv\u00e9e.",
+            "departure": "Veuillez choisir une date de d\u00e9part.",
+            "dates": "La date de d\u00e9part doit \u00eatre apr\u00e8s la date d'arriv\u00e9e.",
+            "past": "La date d'arriv\u00e9e ne peut pas \u00eatre pass\u00e9e.",
+            "guests": "Indiquez un nombre de personnes valide.",
+            "consent": "Votre consentement est n\u00e9cessaire."
+        },
+        "notConfiguredTitle": "Envoi non configur\u00e9",
+        "notConfiguredBody": "Aucun e-mail ni num\u00e9ro WhatsApp n'est encore renseign\u00e9. Aucune demande n'a \u00e9t\u00e9 transmise.",
+        "preparedTitle": "Demande pr\u00eate \u00e0 \u00eatre envoy\u00e9e",
+        "preparedBody": "Votre application de messagerie s'est ouverte. V\u00e9rifiez le message puis envoyez-le vous-m\u00eame.",
+        "waMessage": {
+            "intro": "Bonjour, je souhaite demander une disponibilit\u00e9.",
+            "name": "Nom",
+            "dates": "Dates",
+            "guests": "Personnes",
+            "vehicle": "V\u00e9hicule",
+            "message": "Message"
+        },
+        "addressTitle": "Adresse"
+    },
+    "privacy": {
+        "title": "Politique de confidentialit\u00e9",
+        "updated": "Derni\u00e8re mise \u00e0 jour : octobre 2026",
+        "sections": [
+            {
+                "h": "Donn\u00e9es collect\u00e9es",
+                "p": "Le formulaire collecte les informations que vous saisissez : nom, t\u00e9l\u00e9phone, e-mail, dates, nombre de personnes, type de v\u00e9hicule et message."
+            },
+            {
+                "h": "Utilisation",
+                "p": "Ces informations servent uniquement \u00e0 pr\u00e9parer votre demande de disponibilit\u00e9 et \u00e0 permettre \u00e0 l'\u00e9tablissement de vous r\u00e9pondre."
+            },
+            {
+                "h": "Transmission",
+                "p": "Le site ne stocke pas vos donn\u00e9es sur un serveur. Votre demande est pr\u00e9par\u00e9e dans votre application e-mail ou WhatsApp, que vous envoyez vous-m\u00eame."
+            },
+            {
+                "h": "Vos droits",
+                "p": "Vous pouvez demander l'acc\u00e8s, la rectification ou la suppression de vos informations en contactant l'\u00e9tablissement."
+            },
+            {
+                "h": "Contact",
+                "p": "Pour toute question relative \u00e0 vos donn\u00e9es, utilisez la page de contact du site."
+            }
+        ]
+    },
+    "footer": {
+        "rights": "Tous droits r\u00e9serv\u00e9s.",
+        "privacy": "Confidentialit\u00e9",
+        "address": "Douar Tighmert, A\u00eft Messaoud, Asrir, Guelmim, Maroc"
+    },
+    "wa": {
+        "float": "WhatsApp"
+    },
+    "common": {
+        "toContact": "Cliquez ici pour nous contacter",
+        "skip": "Aller au contenu"
+    }
+}
